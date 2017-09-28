@@ -1,6 +1,5 @@
 title: Elusive Elk
-description: >
-An Elusive Elk website
+description: An Elusive Elk website
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.elusiveelk.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
